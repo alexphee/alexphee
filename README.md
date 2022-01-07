@@ -3,7 +3,7 @@
 - I usually work on projects using Java, Python or SQL.
 - I like messing around with HTML, CSS and JS as well.
 
---> https://alexphee.github.io <--
+CV: https://alexphee.github.io
 
 <!---
 alexphee/alexphee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
