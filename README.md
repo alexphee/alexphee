@@ -4,6 +4,8 @@
 - I like messing around with HTML, CSS and JS as well.
 - Also having fun with Arduino projects.
 
+-I work as a Software Developer in Thessaloniki, GR.
+
 full CV: https://alexphee.github.io
 
 <!---
